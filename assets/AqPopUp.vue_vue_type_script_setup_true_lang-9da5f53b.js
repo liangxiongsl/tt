@@ -1,0 +1,1 @@
+import{d as r,c as n,b as o,y as i,g as a}from"./index-8031c332.js";const l={class:"backdrop-brightness-50 fixed flex inset-0 items-center justify-center"},p=r({__name:"AqPopUp",emits:["trigger"],setup(c,{emit:t}){return(s,e)=>(a(),n("div",l,[o("div",{onClick:e[0]||(e[0]=d=>t("trigger")),class:"fixed h-full w-full z-40"}),i(s.$slots,"default")]))}});export{p as _};
